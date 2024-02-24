@@ -1,4 +1,4 @@
-<div align="right" style="font-size: 60px;">😃</div>
+<div align="right" style="font-size: 60px;"><font size="+20">😃</font></div>
 
 # Emoji | Quickstarts
 Emoji Quickstarts
